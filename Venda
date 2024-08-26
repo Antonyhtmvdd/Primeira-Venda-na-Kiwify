@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Primeira Venda na Kiwify em 1 Dia</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f8ff; /* Azul claro */
+            color: #333;
+        }
+        header {
+            background-color: #1e90ff; /* Azul mais forte */
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1 {
+            color: #1e90ff;
+        }
+        .course-description {
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        .course-description p {
+            font-size: 18px;
+            line-height: 1.6;
+        }
+        .cta-button {
+            background-color: #1e90ff;
+            color: white;
+            padding: 15px 30px;
+            text-align: center;
+            border: none;
+            border-radius: 5px;
+            font-size: 18px;
+            cursor: pointer;
+            display: block;
+            margin: 20px auto;
+            text-decoration: none;
+        }
+        .cta-button:hover {
+            background-color: #104e8b; /* Azul mais escuro ao passar o mouse */
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Primeira Venda na Kiwify em 1 Dia</h1>
+</header>
+
+<div class="container">
+    <div class="course-description">
+        <h2>Transforme Seu Conhecimento em Dinheiro!</h2>
+        <p>Aprenda a fazer sua primeira venda na Kiwify em apenas um dia! Este curso foi desenvolvido especialmente para você que está começando no marketing digital e quer resultados rápidos e eficientes.</p>
+        <p>Com técnicas práticas e estratégias testadas, você vai descobrir o caminho mais curto para o sucesso nas vendas online. Não perca tempo, comece a lucrar hoje mesmo!</p>
+    </div>
+    
+    <a href="https://www.kiwify.com/checkout" class="cta-button">Comprar Agora</a>
+</div>
+
+</body>
+</html>
